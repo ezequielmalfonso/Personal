@@ -1,0 +1,42 @@
+# Dependencias para el Estudio de Detección de Alzheimer
+
+# Deep Learning
+torch>=1.12.0
+torchvision>=0.13.0
+torchaudio>=0.12.0
+
+# Datasets y HuggingFace
+datasets>=2.0.0
+transformers>=4.20.0
+
+# Análisis de datos
+numpy>=1.21.0
+pandas>=1.4.0
+scikit-learn>=1.1.0
+
+# Visualización
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Procesamiento de imágenes
+Pillow>=9.0.0
+opencv-python>=4.6.0
+
+# Utilidades
+tqdm>=4.64.0
+jupyter>=1.0.0
+ipywidgets>=7.7.0
+
+# Optimización y métricas
+optuna>=3.0.0
+wandb>=0.13.0
+
+# Desarrollo y testing
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0
+
+# Documentación
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0
