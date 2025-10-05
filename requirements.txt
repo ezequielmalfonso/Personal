@@ -1,0 +1,10 @@
+datasets
+torch
+torchvision
+matplotlib
+seaborn
+scikit-learn
+tqdm
+pillow
+pandas
+numpy
