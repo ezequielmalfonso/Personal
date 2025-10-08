@@ -6,10 +6,12 @@ Genera visualizaciones y análisis completos del modelo de Alzheimer
 
 import sys
 import os
+import torch
 import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import numpy as np
+from torchvision import transforms
 
 # Configurar matplotlib para presentaciones
 plt.style.use('seaborn-v0_8')
