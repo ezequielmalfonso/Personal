@@ -10,6 +10,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 import numpy as np
+import torch
+from torchvision import transforms
 
 # Configurar matplotlib para presentaciones
 plt.style.use('seaborn-v0_8')
